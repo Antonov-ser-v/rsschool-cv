@@ -21,13 +21,13 @@ studying different programming platforms. Qualities that I possess: commitment, 
 
 Programming languages:
 
-C#, PHP, Excel VBA 
+C#, PHP, Excel VBA;
 
 ### Data base
 
 Posgress SQL,Oracle # Code examples #
 
-### My latest Code C#
+### My latest Code 'C#'
 
 ```scharp
 private void button1_Click(object sender, EventArgs e)
@@ -94,3 +94,18 @@ private void button1_Click(object sender, EventArgs e)
     }
 }
 ```
+
+## Experience
+
+My Frilance Experience link
+
+## Education
+
+Samara state technical University
+Department of Automation and Control in Technical systems
+Samara state technical University
+Department Of development of Oil and gas fields
+
+## English
+
+B1
